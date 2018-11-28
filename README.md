@@ -1,4 +1,4 @@
-# [Dashboard React]
+# Dashboard React
 
 ## File Structure
 
@@ -87,4 +87,3 @@ Within the download you'll find the following directories and files:
 ## run
 - yarn install
 - yarn start
-run http://localhost:3000
